@@ -26,7 +26,7 @@ O objetivo do projeto é permitir que você crie sua ONG e entre em contato com 
 ```
 git clone https://github.com/leooalves/semanaOministack11.git
 
-cd semana-omnistack-11
+cd semanaOministack11
 ```
 
 **Instale as dependências com NPM ou Yarn**
